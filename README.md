@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Selvinaz Kıyıkcı
 
-Backend Developer with hands-on experience building and deploying production-ready web and backend systems. I focus on clean, maintainable code and love working with APIs, databases, and cloud services.
+Backend Developer with hands-on experience building and deploying production-ready mobile and backend systems. I focus on clean, maintainable code and love working with APIs, databases, and cloud services.
 
 🚀 Always learning and improving!
-
----
 
 ## 🛠️ Tech Stack
 
@@ -14,22 +12,6 @@ Backend Developer with hands-on experience building and deploying production-rea
 **Frontend / Mobile:** Flutter (Dart), React, Next.js  
 **AI / ML (Project-based):** TensorFlow, OpenCV, CNN  
 **Tools:** Git, GitHub
-
----
-
-## 🔥 Featured Projects
-
-### 💡 **IONBEE Public Charging App**
-- Cross-platform EV charging app with Flutter & Django (OCPP)
-- Published on **Google Play & App Store**
-
-### 🧰 **EVChargerDemo**
-- Backend demo application with Node.js
-- REST APIs and authentication
-
-### 🎧 **Emotion-Based Music Recommendation**
-- Real-time facial emotion detection (OpenCV + CNN)
-- Integrated with Spotify API
 
 👉 *Check out more in my pinned repositories!*
 
