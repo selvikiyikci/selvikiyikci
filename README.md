@@ -20,7 +20,3 @@ Backend Developer with hands-on experience building and deploying production-rea
 - 🌐 Portfolio: https://kiyikciselvinaz.lovable.app/
 
 ---
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=selvikiyikci&show_icons=true&theme=default)
