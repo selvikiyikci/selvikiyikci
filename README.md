@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Selvinaz Kıyıkcı
 
-Backend Developer with hands on experience building and deploying production ready web,mobile and backend systems. I focus on clean, maintainable code and love working with APIs, databases and cloud services.
+Full Stack Mobile and Web Developer with hands on experience building and deploying production ready web,mobile and backend systems. I focus on clean, maintainable code and love working with APIs, databases and cloud services.
 
 🚀 Always learning and improving!
 
